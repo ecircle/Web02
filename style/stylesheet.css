@@ -8,6 +8,19 @@ body {
     background-color: #CCD0D9;
 }
 
+.self_a {
+    text-decoration: none;
+}
+
+.self_a:hover {
+    color: rgb(84, 32, 100);
+    text-decoration: underline;
+}
+
+.self_a:active {
+    color: red;
+}
+
 #bigbox {
     width: 1000px;
     margin: 0 auto;
